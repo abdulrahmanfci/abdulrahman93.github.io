@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Abdulrahman Ahmed"
-  avatar           : "profile.png"
+  avatar           : "files/pp_cropped.jpg"
   bio              : ""
   location         : #"Location"
   employer         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/abdulrahman-abdulmoneim"
+  linkedin         : "abdulrahman-abdulmoneim"
   orcid            : # http://orcid.org/yourorcidurl
   pinterest        :
   soundcloud       :
