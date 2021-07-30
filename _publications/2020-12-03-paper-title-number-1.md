@@ -1,7 +1,7 @@
 ---
 title: "Optimizing stock market execution costs using reinforcement learning"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2020-12-03-paper-title-number-1
 excerpt: 'Keywords: Reinforcement learning, Machine learning, Finance.  <br> <br>
 —Abstract: Stock market trading is a complex process where
 traders aim to maximize their expected return while minimizing
