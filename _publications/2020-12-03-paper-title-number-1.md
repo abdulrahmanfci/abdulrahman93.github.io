@@ -21,7 +21,7 @@ model using historical data of the Egyptian stock market and
 Nasdaq stock market, and it showed in both markets a significant
 improvement (more than 60% for some securities) over the
 compared strategies.
-
+---
 Keywords: Reinforcement learning, Machine learning, Finance'
 
 date: 2020-12-03
@@ -32,4 +32,4 @@ A reinforcement learning model for optimzing the time execution for a specific m
 
 [Paper link](http://abdulrahman93.github.io/files/Optimizing-stock-Ahmed.pdf)
 
-Recommended citation: Ahmed, Abdulrahman A. Ghoneim, Ayman. Saleh, Mohamed. (2009). "Optimizing stock market execution costs using reinforcement learning." <i>2020 IEEE Symposium series on computational intelligence conference</i>. 1(1).
+Recommended citation: Ahmed, Abdulrahman A. Ghoneim, Ayman. Saleh, Mohamed. (2020). "Optimizing stock market execution costs using reinforcement learning." <i>2020 IEEE Symposium series on computational intelligence conference</i>. 1(1).
