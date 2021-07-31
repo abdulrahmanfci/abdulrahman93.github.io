@@ -10,8 +10,8 @@ tags:
   - optimization
 ---
 
-This post will be about explaining the paper (under construction).
-This post is build on the paper "Optimizing stock market execution costs using reinforcement learning" [link](http://abdulrahman93.github.io/files/Optimizing-stock-Ahmed.pdf).
+This post will be about explaining the paper (under construction). <br> <br>
+This post is built on the paper "Optimizing stock market execution costs using reinforcement learning" [link](http://abdulrahman93.github.io/files/Optimizing-stock-Ahmed.pdf).
 
 What is trade execution?
 ======
@@ -27,4 +27,6 @@ What is reinforcement learning?
 What are the results for the model?
 ------
 
+<br><br>
+<br><br>
 If you still interested please check our [paper](http://abdulrahman93.github.io/files/Optimizing-stock-Ahmed.pdf).
