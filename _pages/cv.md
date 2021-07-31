@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Resume"
+permalink: /resume/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[CV link](http://abdulrahman93.github.io/files/resume_gt.pdf)
+[Resume link](http://abdulrahman93.github.io/files/resume_gt.pdf)
