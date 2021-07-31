@@ -1,7 +1,7 @@
 ---
 title: 'Using reinforcement learning agent in optimzing stock market execution costs'
 date: 2021-07-30
-permalink: /posts/2021/07/blog-post-1/
+permalink: /posts/2021/07/trade-execution-1/
 tags:
   - reinforcement learning
   - machine learning
