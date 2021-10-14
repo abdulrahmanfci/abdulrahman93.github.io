@@ -116,7 +116,7 @@ author:
   youtube          :
   wikipedia        :
 
-
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=eg-T8PvfEY2R3MsQYzc5m7V1EBi369a4Ktu_ZmA3JqA"></script>
 # Reading Files
 include:
   - .htaccess
