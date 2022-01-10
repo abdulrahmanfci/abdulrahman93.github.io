@@ -24,7 +24,7 @@ Trade execution is the completing of a purchase (or a sale) of previously specif
 What is reinforcement learning?
 ------
 
-Reinforcement learning is the branch of machine learning that concerned with learning the agent by reward. Mainly there are three branches for machine learning: supervised learning, unsupervised learning, and reinforcement learning. Supervised learning defines a label and penalizes the model for not choosing the correct label, while in unsupervised learning the concern is to discover the hidden relations and patterns. On the other hand, reinforcement learning trains the agent by a reward value (signal) which the agent can infer from it after a number of steps what is a good or a bad move. For example, if a RL agent trained to buy a share, and the reward was the negative amount of money spend on buying that share the agent will learn after a number of steps that buying the share at lower price is much better (in reward term) than buying the share at higher price. That is if the price is \$50 and the agent will buy 1000 shares then losing \$50000 is better than losing \$58000.
+Reinforcement learning is the branch of machine learning that concerned with learning the agent by reward. Mainly there are three branches for machine learning: supervised learning, unsupervised learning, and reinforcement learning. Supervised learning defines a label and penalizes the model for not choosing the correct label, while in unsupervised learning the concern is to discover the hidden relations and patterns. On the other hand, reinforcement learning trains the agent by a reward value (signal) which the agent can infer from it after a number of steps what is a good or a bad move. For example, if a RL agent trained to buy a share, and the reward was the negative amount of money spend on buying that share the agent will learn after a number of steps that buying the share at lower price is much better (in reward term) than buying the share at higher price. That is if the price is &dollar;50 and the agent will buy 1000 shares then losing &dollar;50000 is better than losing &dollar;58000.
 <br><br>
 
 How can reinforcement learning help in this?
@@ -37,6 +37,7 @@ How can reinforcement learning help in this?
 What is the technique used to solve this problem?
 ------
 
+test test
 <br><br>
 
 What are the results for the model?
