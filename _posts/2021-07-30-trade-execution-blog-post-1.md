@@ -1,3 +1,5 @@
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=default'></script>
+
 ---
 title: 'Using reinforcement learning agent in optimzing stock market execution costs'
 date: 2021-07-30
@@ -38,6 +40,7 @@ What is the technique used to solve this problem?
 ------
 
 test test
+$$ {J(\theta) =\frac{1}{2m} [\sum^m_{i=1}(h_\theta(x^{(i)}) - y^{(i)})2 + \lambda\sum^n_{j=1}\theta^2_j} $$
 <br><br>
 
 What are the results for the model?
