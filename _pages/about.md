@@ -14,4 +14,4 @@ Hello! This is Abdulrahman, a teaching assistant and master's student at faculty
 
 
 
-PS: I'm currently looking for PhD opportunity, feel free to ping me (email in resume).
+<!-- PS: I'm currently looking for PhD opportunity, feel free to ping me (email in resume). -->
