@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! This is Abdulrahman, a teaching assistant and master's student at faculty of computers and information - Cairo university. My research is about how to utilize reinforcement learning agent in optimzing execution order costs(a financial problem). Using reinforcement learning basic techniques and also exploring the frontiers of deep reinforcement learning in this problem.
+Hello! This is Abdulrahman, a PhD student at the university of Pittsburgh. I'm doing research on developing methods that can sample efficiently from a larg-scale simulations to estimate their treatment effects. Previously, I was TA and master's student at faculty of computers and information - Cairo university. My research in MSc was about how to utilize reinforcement learning in optimzing execution costs(a financial problem).
 
 
 
